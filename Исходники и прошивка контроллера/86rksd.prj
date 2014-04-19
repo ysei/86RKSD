@@ -317,7 +317,7 @@ WarningUnknownPragma=1
 LinkerWarnings=1
 DebugBootLoader=0
 WatchAVR8LAutoVariables=0
-Build=2068
+Build=2069
 UseEEPROMLocation0=1
 ExternalInterruptVectors=0
 IncludePath0=c:\cvavreval\inc
@@ -718,7 +718,7 @@ Row=0
 Column=0
 ScrollPosX=0
 ScrollPosY=0
-TimeStamp=1150068806
+TimeStamp=1150259251
 [Bookmarks13]
 TimeStamp=1117532791
 Row=12
@@ -1055,8 +1055,8 @@ BK8=-1
 BK9=-1
 [Bookmarks32]
 TimeStamp=1149852828
-Row=0
-Column=0
+Row=9
+Column=17
 ScrollPosX=0
 ScrollPosY=0
 BK0=-1
@@ -1163,10 +1163,10 @@ Blocks=0
 Blocks=0
 [HeadersList]
 Files=4
-F1=E:\COM\86RK\Прошивка_микроконтроллера\proto.c
-F2=E:\COM\86RK\Прошивка_микроконтроллера\fs.c
-F3=E:\COM\86RK\Прошивка_микроконтроллера\sd.c
-F4=E:\COM\86RK\Прошивка_микроконтроллера\86rksd.c
+F1=E:\COM\Museum\Апогей_БК-01\86RKSD\Исходники и прошивка контроллера\proto.c
+F2=E:\COM\Museum\Апогей_БК-01\86RKSD\Исходники и прошивка контроллера\fs.c
+F3=E:\COM\Museum\Апогей_БК-01\86RKSD\Исходники и прошивка контроллера\sd.c
+F4=E:\COM\Museum\Апогей_БК-01\86RKSD\Исходники и прошивка контроллера\86rksd.c
 [Header1]
 Files=4
 F1=proto.h
